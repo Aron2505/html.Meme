@@ -1,0 +1,19 @@
+body {
+    background: black;
+    text-align: center;
+   
+}
+img {
+    border: 5px solid white;
+    margin-top: 80px;
+}
+h1 {
+    color: white; 
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif;
+    
+}
+p {
+    color: white;
+    font-family: "Kode Mono", monospace;
+}
